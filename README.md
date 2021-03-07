@@ -1,6 +1,21 @@
 # LFR Notes for Castle Nathria
 A brief set of notes you can copy/paste into your Castle Nathria LFR to help people understand the fights.
 
+- [The Leeching Vaults](#the-leeching-vaults)
+  * [Huntsman Altimor](#huntsman-altimor)
+  * [Hungering Destroyer](#hungering-destroyer)
+  * [Lady Inerva Darkvein](#lady-inerva-darkvein)
+- [Reliquary of Opulence](#reliquary-of-opulence)
+  * [Sun King's Salvation](#sun-kings-salvation)
+  * [Artificer Xy'mox](#artificer-xymox)
+  * [Council of Blood](#council-of-blood)
+- [Blood from Stone](#blood-from-stone)
+  * [Shriekwing](#shriekwing)
+  * [Sludgefist](#sludgefist)
+  * [Stone Legion Generals](#stone-legion-generals)
+- [An Audience with Arrogance](#an-audience-with-arrogance)
+  * [Sire Denathrius](#sire-denathrius)
+
 
 ## The Leeching Vaults
 ### Huntsman Altimor:
