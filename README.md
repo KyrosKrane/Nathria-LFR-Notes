@@ -31,7 +31,7 @@ A brief set of notes you can copy/paste into your Castle Nathria LFR to help peo
 
 
 ### Lady Inerva Darkvein:
-`/i Soak the small red circles on the ground. If you get a big red circle around you, run JUST outside of the melee group. You will drop an add. Whole raid kills it.`
+`/i Soak the small red circles on the ground. If you get a big red circle around you, run JUST outside of the melee group. DO NOT RUN FAR. You will drop an add. Whole raid kills it.`
 
 `/i If you get linked by lines, RUN OUT and put the lines over the red balls. Just like connect the dots. YOU MUST DO THIS OR YOU WIPE US. Hero on third anima canister.`
 
@@ -55,6 +55,10 @@ A brief set of notes you can copy/paste into your Castle Nathria LFR to help peo
 `/i Dodge the white lines. Run away from ghosts - they MC you. DPS MC'ed people to break them. Pick up blue seeds and move them to the far side of the room - you will die if you stand in the blue explosion.`
 
 `/i When he does the sucky sword, RUN OUT OF IT. Stay near the wall. Use the orange circle portal to escape if you get sucked in. Use hero at start of third phase (sucky sword).`
+
+At start of phase 3, move the mark, then:
+
+`/rw ORANGE CIRCLE MARK HAS MOVED. Take orange portal to new marked spot.`
 
 
 ### Council of Blood
