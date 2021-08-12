@@ -1,6 +1,8 @@
 # LFR Notes for Castle Nathria
 A brief set of notes you can copy/paste into your Castle Nathria LFR to help people understand the fights.
 
+For help or suggestions, [visit my discord](https://discord.gg/7sJKfawK8S), or you can open an issue here on Github.
+
 - [The Leeching Vaults](#the-leeching-vaults)
   * [Huntsman Altimor](#huntsman-altimor)
   * [Hungering Destroyer](#hungering-destroyer)
